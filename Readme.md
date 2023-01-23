@@ -2,6 +2,7 @@
 
 一个简易AVG引擎，核心是基于xLua和xml的脚本规则+解析器（其实基于此也可以RPG的脚本化）。
 
+![ss](./Screenshots/ss.png?raw=true)
 
 
 ## 功能
