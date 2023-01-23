@@ -1,0 +1,5 @@
+<data>
+	<motion>talk("美沙","现在是子剧情哦")</motion>
+	<motion>talk("美沙","使用runParentScript()返回");</motion>
+	<motion>runParentScript();</motion>
+</data>

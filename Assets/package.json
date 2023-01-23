@@ -1,0 +1,19 @@
+{
+    "name": "com.rainssong.avgenging",
+    "version": "1.0.0",
+    "displayName": "Rain Avg Engine",
+    "description": "Rain Avg Engine",
+    "unity": "2020.1",
+    "dependencies": {
+      "com.rainssong.unitylib": "1.0.0",
+      "com.unity.ugui": "1.0.0"
+   },
+   "keywords": [
+      "avg"
+    ],
+    "author": {
+      "name": "rainssong",
+      "email": "rainssong@126.com",
+      "url": "https://www.rainssong.com"
+    }
+  }
