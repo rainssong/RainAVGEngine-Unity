@@ -25,7 +25,7 @@
   <motion>talk("美沙","那么执行getValue(\"love\")就会得到："..getValue("love"));</motion>
   <motion>talk("美沙","另外可以显示图片哦。");showPic("assets/Pic/pic01.png");</motion>
 
-  <motion>talk("美沙","if 语句");</motion>
+  <motion>talk("美沙","接下来是if语句测试");</motion>
   <motion>
     if  getValue("love")>10 then
       go("isLove")
